@@ -24,5 +24,5 @@ Instala las dependencias:
    g++ main.cpp -o universo
 ./universo
   ```
-### Salida
-Reporte y Resultados.pdf contiene un reporte escolar mostrando la explicación y funcionamiento del programa.
+### Reporte
+Reporte y Resultados.pdf contiene un escrito escolar mostrando la explicación y funcionamiento del programa.
